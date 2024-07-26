@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage-pzaeQoCm.js";import{_ as a,L as o,P as r,Q as t,T as s}from"./index-8npxp5fX.js";import"./render-BRdmmUVh.js";const c={};function n(_,f){return o(),r(e,{class:"flex flex-center"},{default:t(()=>[s(" CONVERSION page ")]),_:1})}const x=a(c,[["render",n],["__file","ConversionPage.vue"]]);export{x as default};

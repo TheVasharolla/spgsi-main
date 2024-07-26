@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage-pzaeQoCm.js";import{_ as t,L as a,P as r,Q as s,T as c}from"./index-8npxp5fX.js";import"./render-BRdmmUVh.js";const o={};function n(_,f){return a(),r(e,{class:"flex flex-center"},{default:s(()=>[c(" SETTLEMENTS page ")]),_:1})}const p=t(o,[["render",n],["__file","SettlementsPage.vue"]]);export{p as default};

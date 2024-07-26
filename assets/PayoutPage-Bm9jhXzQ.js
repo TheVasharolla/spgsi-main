@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage-pzaeQoCm.js";import{_ as a,L as t,P as o,Q as r,T as c}from"./index-8npxp5fX.js";import"./render-BRdmmUVh.js";const s={};function _(f,n){return t(),o(e,{class:"flex flex-center"},{default:r(()=>[c(" PAYOUT page ")]),_:1})}const u=a(s,[["render",_],["__file","PayoutPage.vue"]]);export{u as default};

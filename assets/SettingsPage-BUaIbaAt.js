@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage-pzaeQoCm.js";import{_ as t,L as a,P as r,Q as s,T as c}from"./index-8npxp5fX.js";import"./render-BRdmmUVh.js";const o={};function n(_,f){return a(),r(e,{class:"flex flex-center"},{default:s(()=>[c(" SETTINGS page ")]),_:1})}const x=t(o,[["render",n],["__file","SettingsPage.vue"]]);export{x as default};
